@@ -1,3 +1,3 @@
 # Java Script
 ## Learning Java Script
-###Learning all type of JS
+### Learning all type of JS
